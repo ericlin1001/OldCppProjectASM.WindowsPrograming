@@ -1,0 +1,4 @@
+#define WINDOW_WIDTH 500
+#define WINDOW_HEIGHT 500
+#define INIT_X 100
+#define INIT_Y 100

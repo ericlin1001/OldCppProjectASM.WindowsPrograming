@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FDraw - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/FDraw.res" /d "_DEBUG" /d "_AFXDLL" "E:\C ++\C++Projects\Windows±à ³Ì\FDraw\FDraw.rc"" 
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSPE50C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/FDraw.pdb" /debug /machine:I386 /out:"Debug/FDraw.exe" /pdbtype:sept 
+".\Debug\FDraw.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\ChildFrm.obj"
+".\Debug\FDrawDoc.obj"
+".\Debug\FDrawView.obj"
+".\Debug\FDraw.res"
+]
+Creating command line "link.exe @C:\Users\lenovo\AppData\Local\Temp\RSPE50C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+FDraw.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

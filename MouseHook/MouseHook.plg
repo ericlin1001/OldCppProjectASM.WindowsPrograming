@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MouseHook - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSP3F5D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_AFXEXT" /Fp"Debug/MouseHook.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\C ++\C++Projects\Windows编 程\MouseHook\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\lenovo\AppData\Local\Temp\RSP3F5D.tmp" 
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(726) : error C2018: unknown character '0x14'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(726) : error C2146: syntax error : missing ',' before identifier 'ableName'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(726) : error C2061: syntax error : identifier 'ableName'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(728) : error C2018: unknown character '0x13'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(729) : error C2143: syntax error : missing ',' before '*'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(729) : error C2059: syntax error : '*'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(731) : error C2018: unknown character '0x40'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(734) : error C2146: syntax error : missing ';' before identifier 'verAttributes'
+d:\program files\microsoft visual studio\vc98\include\sqlucode.h(734) : fatal error C1004: unexpected end of file found
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+StdAfx.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

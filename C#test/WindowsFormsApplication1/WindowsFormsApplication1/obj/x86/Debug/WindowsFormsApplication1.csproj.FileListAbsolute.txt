@@ -1,0 +1,9 @@
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\RNAViewerNS.Form1.resources
+E:\C ++\C++Projects\Windows编 程\C#test\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\RNAViewerNS.Properties.Resources.resources

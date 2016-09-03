@@ -1,0 +1,7 @@
+; TestHookMouse.def : Declares the module parameters for the DLL.
+
+LIBRARY      "TestHookMouse"
+DESCRIPTION  'TestHookMouse Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
